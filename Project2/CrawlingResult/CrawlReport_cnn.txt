@@ -1,0 +1,42 @@
+Name: Wei Fei
+USC ID: 5795664300
+News site crawled: cnn.com
+
+Fetch Statistics:
+=============
+# fetches attempted: 19999
+# fetches succeeded: 17816
+# fetches failed or aborted: 2183
+
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1858828
+# unique URLs extracted: 242157
+# unique URLs within News Site: 60513
+# unique URLs outside News Site: 181644
+
+Status Codes:
+=============
+200 OK: 17816
+301 Moved Permanently: 1993
+404 Not Found: 23
+500 Internal Server Error:1
+502 Bad Gateway server error:34
+503 Service Unavailable:132
+
+File Sizes:
+===========
+< 1KB: 2
+1KB ~ <10KB: 28
+10KB ~ <100KB: 755
+100KB ~ <1MB:: 1615
+>= 1MB: 15416
+
+Content Types:
+==============
+text/html: 17796
+image/gif: 0
+image/jpeg: 20
+image/png: 0
+application/pdf: 0
